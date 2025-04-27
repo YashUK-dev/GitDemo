@@ -1,2 +1,3 @@
 # GitDemo
-This is a demo of Git
+This is a demo of Git.
+
